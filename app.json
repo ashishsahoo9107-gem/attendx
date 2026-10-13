@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "AttendX",
+    "slug": "attendx",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0B1020"
+    },
+    "android": {
+      "package": "com.attendx.student"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
