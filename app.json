@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "AttendX",
+    "slug": "attendx",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0B1020"
+    },
+    "android": {
+      "package": "com.attendx.student",
+      "versionCode": 2,
+      "adaptiveIcon": {
+        "foregroundImage": "./public/icons/icon-512.png",
+        "backgroundColor": "#080D1A"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./public/icons/favicon.png"
+    },
+    "icon": "./public/icons/icon-512.png"
+  }
+}
